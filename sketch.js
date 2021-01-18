@@ -13,11 +13,11 @@ var i1,i2,i3,i4,i5;
 
 
 function preload(){
-  i1=loadImage("images/car1.png");
-  i2=loadImage("images/car2.png");
-  i3=loadImage("images/car3.png");
-  i4=loadImage("images/car4.png");
-  i5=loadImage("images/track.jpg");
+  i1=loadImage("car1.png");
+  i2=loadImage("car2.png");
+  i3=loadImage("multi3.png");
+  i4=loadImage("pl.png");
+  i5=loadImage("track.jpg");
 
 
 }
